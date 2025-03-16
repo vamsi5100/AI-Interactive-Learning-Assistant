@@ -1,0 +1,8 @@
+dotenv
+chromadb
+openai
+jupyterlab
+numpy
+pandas
+gradio
+langchain
